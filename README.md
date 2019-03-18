@@ -1,2 +1,2 @@
 # Testes
-Repositorio para testes
+Este repositorio esta servindo somente para estudos sobre o GIT, oque. Você. Esta. Fazendo. A. ?.?.?.
