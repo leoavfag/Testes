@@ -1,2 +1,2 @@
 # Testes
-Este repositorio esta servindo somente para estudos sobre o GIT, oque. Você. Esta. Fazendo. Aqui. ?.?.?.
+Este repositorio esta servindo somente para estudos sobre o GIT.
